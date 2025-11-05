@@ -18,31 +18,10 @@ Databases: PostgreSQL, MySQL, SQLite
 Tools & DevOps: Docker, Git, GitHub, Nginx, Playwright, Celery
 Other: API Design, Web Scraping, Authentication, Payment Integration
 
-💼 Featured Project — VENDRA
-
-VENDRA is a next-generation auction platform for professional sellers and buyers.
-Key features include:
-
-Real-time live auctions with video streaming
-
-Expert verification & item appraisal
-
-Secure payments (Stripe/PayPal)
-
-Auto-translated private messaging
-
-Automated shipping and VAT invoicing
-
-🌱 Currently Working On
-
-Enhancing the VENDRA system with multilingual and live auction features
-
-Learning advanced system architecture and microservices
-
 📫 Contact
 
-📧 Email: joychondrodeb@gmail.com
+📧 Email: j.jooydebnath@gmail.com
 
-💼 LinkedIn: linkedin.com/in/joychondrodeb
+💼 LinkedIn: linkedin.com/in/jooydebnath
 
-🐙 GitHub: github.com/joychondrodeb
+🐙 GitHub: github.com/jooydebnath
