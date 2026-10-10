@@ -110,6 +110,24 @@
 ![Django Expert](https://img.shields.io/badge/Django-Expert-darkgreen?style=for-the-badge&logo=django)
 ![Remote Worker](https://img.shields.io/badge/Remote-Worldwide-success?style=for-the-badge&logo=googlemaps)
 ![Open Source](https://img.shields.io/badge/Open_Source-Lover-orange?style=for-the-badge&logo=opensourceinitiative)
+![Pro](https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github)
+
+## 🏆 GitHub Achievements — Earned (2)
+
+| Badge | Name | Status |
+|---|---|---|
+| <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60"/> | **Pull Shark** — merged PRs | ✅ Earned |
+| <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60"/> | **YOLO** — merge PR without review | ✅ Earned |
+| ⭐ PRO | **Pro** highlight | ✅ Earned |
+
+👉 Full list: [github.com/jooydebnath?tab=achievements](https://github.com/jooydebnath?tab=achievements)
+
+### 🔒 Next Targets — Lock khulte ja kora lagbe
+- **Quickdraw** — 5 min er moddhe issue/PR close koro
+- **Pair Extraordinaire** — co-author diye PR merge koro
+- **Starstruck** — nijer repo te star ano (repo share koro)
+- **Galaxy Brain** — Discussion e answer accept korao
+- **Arctic Code Vault** — public repo te contribution (auto)
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jooydebnath)
